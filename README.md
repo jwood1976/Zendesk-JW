@@ -1,2 +1,6 @@
-# Zendesk-JW
-Testing the Spredfast notification API with a copy of the Heroku Zendesk app
+# zendesk-integration
+A Zendesk integration using Spredfast Conversations Notifications Service
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
